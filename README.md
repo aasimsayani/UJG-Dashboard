@@ -18,12 +18,7 @@ App runs at `http://localhost:3000`. That's it — no environment variables requ
 
 ## 🔐 Password
 
-Default: **`ummamanagement`**
-
-Accepted variants (spacing and capitalisation ignored):
-`ummamanagement` · `umma management` · `ummamanagement2024` · `umma2024` · `ummamgmt`
-
-To change: edit `src/constants.js` → `PASSWORDS` array.
+Reach out to : **`Aasim`**
 
 ---
 
