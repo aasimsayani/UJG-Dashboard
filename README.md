@@ -17,16 +17,7 @@ App runs at `http://localhost:3000`.
 
 ## 🔐 Password
 
-Default access password: **`ummamanagement`**
-
-All accepted variants (case/spacing insensitive):
-- `ummamanagement`
-- `umma management`
-- `ummamanagement2024`
-- `umma2024`
-- `ummamgmt`
-
-To change passwords, edit `src/constants.js` → `PASSWORDS` array.
+Please reach out to Aasim to access the platform at this time.
 
 ---
 
